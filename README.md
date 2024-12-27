@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Farsin-ts/LeetCode/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/Farsin-ts/LeetCode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Farsin-ts/LeetCode/tree/master/0125-valid-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Farsin-ts/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
