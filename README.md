@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Farsin-ts/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Farsin-ts/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Farsin-ts/LeetCode/tree/master/0342-power-of-four) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Farsin-ts/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Farsin-ts/LeetCode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Farsin-ts/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Farsin-ts/LeetCode/tree/master/0217-contains-duplicate) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Farsin-ts/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
