@@ -29,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Farsin-ts/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Farsin-ts/LeetCode/tree/master/0125-valid-palindrome) |
 | [0742-to-lower-case](https://github.com/Farsin-ts/LeetCode/tree/master/0742-to-lower-case) |
+| [0953-reverse-only-letters](https://github.com/Farsin-ts/LeetCode/tree/master/0953-reverse-only-letters) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Farsin-ts/LeetCode/tree/master/0125-valid-palindrome) |
+| [0953-reverse-only-letters](https://github.com/Farsin-ts/LeetCode/tree/master/0953-reverse-only-letters) |
 ## Bit Manipulation
 |  |
 | ------- |
