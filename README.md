@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Farsin-ts/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Farsin-ts/LeetCode/tree/master/0217-contains-duplicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Farsin-ts/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1524-string-matching-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/1524-string-matching-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Farsin-ts/LeetCode/tree/master/0125-valid-palindrome) |
 | [0742-to-lower-case](https://github.com/Farsin-ts/LeetCode/tree/master/0742-to-lower-case) |
 | [0953-reverse-only-letters](https://github.com/Farsin-ts/LeetCode/tree/master/0953-reverse-only-letters) |
+| [1524-string-matching-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/1524-string-matching-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Farsin-ts/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Farsin-ts/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Farsin-ts/LeetCode/tree/master/0342-power-of-four) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
