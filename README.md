@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Farsin-ts/LeetCode/tree/master/0217-contains-duplicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Farsin-ts/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1524-string-matching-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Farsin-ts/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/Farsin-ts/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 ## Hash Table
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Farsin-ts/LeetCode/tree/master/0742-to-lower-case) |
 | [0953-reverse-only-letters](https://github.com/Farsin-ts/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1524-string-matching-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Farsin-ts/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2128-reverse-prefix-of-word](https://github.com/Farsin-ts/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Two Pointers
 |  |
