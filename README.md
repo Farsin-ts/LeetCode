@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Farsin-ts/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Farsin-ts/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Farsin-ts/LeetCode/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Farsin-ts/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1524-string-matching-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Farsin-ts/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Farsin-ts/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Farsin-ts/LeetCode/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
