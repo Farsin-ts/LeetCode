@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Farsin-ts/LeetCode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Farsin-ts/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Farsin-ts/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Farsin-ts/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Farsin-ts/LeetCode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Farsin-ts/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Farsin-ts/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Farsin-ts/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/Farsin-ts/LeetCode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Farsin-ts/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Farsin-ts/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/Farsin-ts/LeetCode/tree/master/0742-to-lower-case) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Farsin-ts/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Farsin-ts/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Farsin-ts/LeetCode/tree/master/0217-contains-duplicate) |
 ## Simulation
 |  |
@@ -110,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Farsin-ts/LeetCode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Farsin-ts/LeetCode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
