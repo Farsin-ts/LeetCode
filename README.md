@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Farsin-ts/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1524-string-matching-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1603-running-sum-of-1d-array](https://github.com/Farsin-ts/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Farsin-ts/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/Farsin-ts/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Farsin-ts/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Farsin-ts/LeetCode/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Farsin-ts/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
