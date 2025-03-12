@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Farsin-ts/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Farsin-ts/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Farsin-ts/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Farsin-ts/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Farsin-ts/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Farsin-ts/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Farsin-ts/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Farsin-ts/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Farsin-ts/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Farsin-ts/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Farsin-ts/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Farsin-ts/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
