@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Farsin-ts/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2350-find-closest-number-to-zero](https://github.com/Farsin-ts/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
+| [3778-transform-array-by-parity](https://github.com/Farsin-ts/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Farsin-ts/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Farsin-ts/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Farsin-ts/LeetCode/tree/master/0268-missing-number) |
+| [3778-transform-array-by-parity](https://github.com/Farsin-ts/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Farsin-ts/LeetCode/tree/master/0169-majority-element) |
+| [3778-transform-array-by-parity](https://github.com/Farsin-ts/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
