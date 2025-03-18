@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/Farsin-ts/LeetCode/tree/master/0506-relative-ranks) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Farsin-ts/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Farsin-ts/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1524-string-matching-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Farsin-ts/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Farsin-ts/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Farsin-ts/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## String
 |  |
 | ------- |
