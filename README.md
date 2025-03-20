@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Farsin-ts/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/Farsin-ts/LeetCode/tree/master/2235-capitalize-the-title) |
 | [3396-valid-word](https://github.com/Farsin-ts/LeetCode/tree/master/3396-valid-word) |
+| [3636-check-balanced-string](https://github.com/Farsin-ts/LeetCode/tree/master/3636-check-balanced-string) |
 ## Two Pointers
 |  |
 | ------- |
