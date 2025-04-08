@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Farsin-ts/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Farsin-ts/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2350-find-closest-number-to-zero](https://github.com/Farsin-ts/LeetCode/tree/master/2350-find-closest-number-to-zero) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Farsin-ts/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Farsin-ts/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3778-transform-array-by-parity](https://github.com/Farsin-ts/LeetCode/tree/master/3778-transform-array-by-parity) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Farsin-ts/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Farsin-ts/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Farsin-ts/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## String
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Farsin-ts/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/Farsin-ts/LeetCode/tree/master/0953-reverse-only-letters) |
 | [2128-reverse-prefix-of-word](https://github.com/Farsin-ts/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Farsin-ts/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Farsin-ts/LeetCode/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/Farsin-ts/LeetCode/tree/master/0506-relative-ranks) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Farsin-ts/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Farsin-ts/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3778-transform-array-by-parity](https://github.com/Farsin-ts/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Simulation
 |  |
