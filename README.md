@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/Farsin-ts/LeetCode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/Farsin-ts/LeetCode/tree/master/3396-valid-word) |
 | [3636-check-balanced-string](https://github.com/Farsin-ts/LeetCode/tree/master/3636-check-balanced-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/Farsin-ts/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Farsin-ts/LeetCode/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/Farsin-ts/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
+| [3811-reverse-degree-of-a-string](https://github.com/Farsin-ts/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
