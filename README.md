@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Farsin-ts/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Farsin-ts/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Farsin-ts/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3778-transform-array-by-parity](https://github.com/Farsin-ts/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Farsin-ts/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Farsin-ts/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Farsin-ts/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Farsin-ts/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## String
 |  |
 | ------- |
