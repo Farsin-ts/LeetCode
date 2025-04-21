@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Farsin-ts/LeetCode/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Farsin-ts/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/Farsin-ts/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Farsin-ts/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Farsin-ts/LeetCode/tree/master/0179-largest-number) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Farsin-ts/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/Farsin-ts/LeetCode/tree/master/0268-missing-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Farsin-ts/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Farsin-ts/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
