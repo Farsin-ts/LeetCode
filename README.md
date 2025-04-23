@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Farsin-ts/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Farsin-ts/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Farsin-ts/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Farsin-ts/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Farsin-ts/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Farsin-ts/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/Farsin-ts/LeetCode/tree/master/0268-missing-number) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Farsin-ts/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Farsin-ts/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Farsin-ts/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
@@ -193,5 +195,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Farsin-ts/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Farsin-ts/LeetCode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
