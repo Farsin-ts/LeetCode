@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Farsin-ts/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Farsin-ts/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Farsin-ts/LeetCode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Farsin-ts/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Farsin-ts/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2383-add-two-integers](https://github.com/Farsin-ts/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Farsin-ts/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Farsin-ts/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Farsin-ts/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Farsin-ts/LeetCode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Farsin-ts/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Sorting
 |  |
 | ------- |
