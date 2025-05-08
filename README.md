@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/Farsin-ts/LeetCode/tree/master/0506-relative-ranks) |
+| [0941-sort-array-by-parity](https://github.com/Farsin-ts/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Farsin-ts/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Farsin-ts/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Farsin-ts/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Farsin-ts/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Farsin-ts/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0941-sort-array-by-parity](https://github.com/Farsin-ts/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Farsin-ts/LeetCode/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/Farsin-ts/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/Farsin-ts/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Farsin-ts/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Farsin-ts/LeetCode/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/Farsin-ts/LeetCode/tree/master/0506-relative-ranks) |
+| [0941-sort-array-by-parity](https://github.com/Farsin-ts/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Farsin-ts/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Farsin-ts/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
