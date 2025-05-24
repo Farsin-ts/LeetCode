@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Farsin-ts/LeetCode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Farsin-ts/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Farsin-ts/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1944-truncate-sentence](https://github.com/Farsin-ts/LeetCode/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/Farsin-ts/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Farsin-ts/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Farsin-ts/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Farsin-ts/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/Farsin-ts/LeetCode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Farsin-ts/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1944-truncate-sentence](https://github.com/Farsin-ts/LeetCode/tree/master/1944-truncate-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/Farsin-ts/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Farsin-ts/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/Farsin-ts/LeetCode/tree/master/2235-capitalize-the-title) |
