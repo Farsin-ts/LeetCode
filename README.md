@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/Farsin-ts/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Farsin-ts/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Farsin-ts/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Farsin-ts/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3778-transform-array-by-parity](https://github.com/Farsin-ts/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
